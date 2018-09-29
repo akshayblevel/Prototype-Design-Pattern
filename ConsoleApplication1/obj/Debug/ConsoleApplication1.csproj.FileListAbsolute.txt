@@ -1,0 +1,6 @@
+F:\AKKI_DEV\RND\DP\PrototypePattern\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\AKKI_DEV\RND\DP\PrototypePattern\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\AKKI_DEV\RND\DP\PrototypePattern\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\AKKI_DEV\RND\DP\PrototypePattern\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\AKKI_DEV\RND\DP\PrototypePattern\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\AKKI_DEV\RND\DP\PrototypePattern\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
